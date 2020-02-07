@@ -1,0 +1,46 @@
+h1 {
+	color: green;
+}
+
+h2 {
+	margin:0px;
+	font-family:Times New Roman;
+}
+	
+.nav {
+	background-color:blue;
+	height:100px;
+}
+
+.hero{
+	background-color:yellow;
+	float:left;
+	height:300px;
+	width: 50%;
+}
+	
+.about{
+	background-color:green;
+	float:left;
+	height:300px;
+	width: 60%;
+	
+}
+
+.social{
+	background-color:purple;
+	float:left;
+	height:300px;
+	width: 40%;
+	
+}
+
+.case{
+	background-color:red;
+	height:300px;
+	
+}
+
+	
+	
+	
